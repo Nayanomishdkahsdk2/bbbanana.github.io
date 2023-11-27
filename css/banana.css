@@ -1,0 +1,301 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v0_2 {
+  width: 100%;
+  height: 3006px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v0_3 {
+  width: 100%;
+  height: 723px;
+  background: url("../img/v0_3.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1444px;
+  left: 0px;
+  overflow: hidden;
+}
+.v0_4 {
+  width: 100%;
+  height: 723px;
+  background: url("../img/v0_4.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 721px;
+  left: 0px;
+  overflow: hidden;
+}
+.v0_8 {
+  width: 100%;
+  height: 840px;
+  background: rgba(226,226,226,1);
+  opacity: 1;
+  position: absolute;
+  top: 2165px;
+  left: 0px;
+  border: 0px solid rgba(150,150,150,1);
+  overflow: hidden;
+}
+.v0_9 {
+  width: 708px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 843px;
+  left: 58px;
+  font-family: FONTSPRING DEMO - Fracktif Medium;
+  font-weight: Regular;
+  font-size: 80px;
+  opacity: 1;
+  text-align: left;
+}
+.v0_10 {
+  width: 638px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 2273px;
+  left: 380px;
+  font-family: FONTSPRING DEMO - Fracktif Medium;
+  font-weight: Regular;
+  font-size: 54px;
+  opacity: 1;
+  text-align: left;
+}
+.v0_11 {
+  width: 81px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 805px;
+  left: 58px;
+  font-family: FONTSPRING DEMO - Fracktif Medium;
+  font-weight: Regular;
+  font-size: 21px;
+  opacity: 1;
+  text-align: left;
+}
+.v0_12 {
+  width: 374px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1057px;
+  left: 58px;
+  font-family: FONTSPRING DEMO - Fracktif Medium;
+  font-weight: Regular;
+  font-size: 23px;
+  opacity: 1;
+  text-align: left;
+}
+.v0_13 {
+  width: 374px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1057px;
+  left: 512px;
+  font-family: FONTSPRING DEMO - Fracktif Medium;
+  font-weight: Regular;
+  font-size: 23px;
+  opacity: 1;
+  text-align: left;
+}
+.v0_14 {
+  width: 374px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1057px;
+  left: 966px;
+  font-family: FONTSPRING DEMO - Fracktif Medium;
+  font-weight: Regular;
+  font-size: 23px;
+  opacity: 1;
+  text-align: left;
+}
+.v0_15 {
+  width: 141px;
+  height: 45px;
+  background: url("../img/v0_15.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1001px;
+  left: 58px;
+  overflow: hidden;
+}
+.v0_16 {
+  width: 115px;
+  height: 45px;
+  background: url("../img/v0_16.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1001px;
+  left: 511px;
+  overflow: hidden;
+}
+.v0_17 {
+  width: 159px;
+  height: 45px;
+  background: url("../img/v0_17.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1001px;
+  left: 967px;
+  overflow: hidden;
+}
+.v0_18 {
+  width: 512px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1565px;
+  left: 58px;
+  font-family: FONTSPRING DEMO - Fracktif Medium;
+  font-weight: Regular;
+  font-size: 80px;
+  opacity: 1;
+  text-align: left;
+}
+.v0_19 {
+  width: 490px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1719px;
+  left: 850px;
+  font-family: FONTSPRING DEMO - Fracktif Medium;
+  font-weight: Regular;
+  font-size: 23px;
+  opacity: 1;
+  text-align: justified;
+}
+.v4_7 {
+  width: 394px;
+  height: 46px;
+  background: url("../img/v4_7.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1895px;
+  left: 850px;
+  overflow: hidden;
+}
+.v0_31 {
+  width: 342px;
+  height: 339px;
+  background: url("../img/v0_31.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2412px;
+  left: 732px;
+  overflow: hidden;
+}
+.v0_32 {
+  width: 340px;
+  height: 339px;
+  background: url("../img/v0_32.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2412px;
+  left: 325px;
+  overflow: hidden;
+}
+.v0_33 {
+  width: 300px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 2781px;
+  left: 344px;
+  font-family: FONTSPRING DEMO - Fracktif Medium;
+  font-weight: Regular;
+  font-size: 21px;
+  opacity: 1;
+  text-align: center;
+}
+.v0_34 {
+  width: 300px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 2781px;
+  left: 753px;
+  font-family: FONTSPRING DEMO - Fracktif Medium;
+  font-weight: Regular;
+  font-size: 21px;
+  opacity: 1;
+  text-align: center;
+}
+.v0_35 {
+  width: 100%;
+  height: 727px;
+  background: url("../img/v0_35.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v0_36 {
+  width: 250px;
+  height: 66px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 491px;
+  left: 58px;
+  overflow: hidden;
+}
+.v0_37 {
+  width: 250px;
+  height: 66px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border: 0px solid rgba(150,150,150,1);
+  border-top-left-radius: 17px;
+  border-top-right-radius: 17px;
+  border-bottom-left-radius: 17px;
+  border-bottom-right-radius: 17px;
+  overflow: hidden;
+}
+.v0_38 {
+  width: 151px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 13px;
+  left: 49px;
+  font-family: FONTSPRING DEMO - Fracktif Medium;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
